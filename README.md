@@ -26,12 +26,6 @@ I build and modernise web products, APIs and internal tools. Across 12+ years in
 
 I'm also building **StormScape**, a virtual tabletop and creator platform, with real-time collaboration and persistent campaign tools. It is an ongoing product.
 
-## Open source
-
-- **[FOSSology Python — merged fix](https://github.com/fossology/fossology-python/pull/211):** correct upload reuse so it selects the newest matching upload, with seven regression cases.
-- **[Crafting Interpreters — merged contribution](https://github.com/munificent/craftinginterpreters/pull/600):** an earlier documentation correction.
-- **[Claude Runway — proposed fix](https://github.com/tenex-hq/claude-runway/pull/5):** prioritise exhausted usage windows in the overall verdict. Open PR as of September 2026.
-
 ## Tools I work with
 
 **Web & backend:** PHP · Laravel · JavaScript / TypeScript · Vue · Node.js · C# / ASP.NET  
