@@ -8,6 +8,11 @@ I build and modernise web products, APIs and internal tools. Across 12+ years in
 
 [Discuss a project on LinkedIn](https://www.linkedin.com/in/stormburpee/) · [Work with me on Upwork](https://www.upwork.com/freelancers/~012294c900cfac61be)
 
+## Recent projects
+
+- **[Somehow Solvent](https://github.com/StormBurpee/somehow-solvent)** — a Next.js/React/TypeScript application with a pure simulation engine, transactional SQLite state and an immutable event ledger. Includes regression tests, browser tests and a local demo with simulated checkout.
+- **[AURIC](https://github.com/StormBurpee/auric-game)** — an original browser RPG with a custom TypeScript engine, pixel-grid artwork, synthesized audio and tested battle mechanics. [Play the prototype](https://stormburpee.github.io/auric-game/).
+
 ## Where I can help
 
 - **Laravel & PHP:** diagnose bugs, extend existing products, improve APIs and modernise legacy codebases.
